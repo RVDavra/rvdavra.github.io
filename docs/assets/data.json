@@ -1,0 +1,30 @@
+{
+    "projects": [
+        {
+            "name": "Tic Tac Toe",
+            "url": "http://rvdavra.github.io/oxai"
+        },
+        {
+            "name": "Eight Puzzle",
+            "url": "https://rvdavra.github.io/eight-puzzle"
+        },
+        {
+            "name": "Four Men Morris",
+            "url": "https://rvdavra.github.io/four-men-morris"
+        },
+        {
+            "name": "Family contacts",
+            "desc": "Angular website with Firebase",
+            "url": "https://rvdavra.github.io/familysite"
+        },
+        {
+            "name": "Classification",
+            "desc": "ml5js integration with angular.",
+            "url": "https://rvdavra.github.io/classify"
+        },
+        {
+            "name": "Personal Information",
+            "url": "https://rvdavra.github.io/assests/BD/index.html"
+        }
+    ]
+}
