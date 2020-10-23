@@ -1,0 +1,50 @@
+h1 {
+    width: 100%;
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-container {
+    height: 90vh;
+    width: 98vw;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    .project {
+        width: 30vh;
+        margin: 12px;
+        padding: 50px;
+        height: 20vh;
+        text-decoration: none;
+        color: black;
+        box-shadow: 0 0 10px gray;
+        .name {
+            font-weight: bold;
+            font-size: 28px;
+            text-align: center;
+        }
+        &:hover {
+            background: dodgerblue;
+            box-shadow: 0 0 10px dodgerblue;
+        }
+    }
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background: black;
+    border-radius: 4px;
+    padding: 4px 6px;
+    margin-bottom: 2px;
+    margin-right: 2px;
+    code {
+        color: white;
+    }
+}
